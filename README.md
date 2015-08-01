@@ -1,9 +1,8 @@
 NewsRoom
 ========
 
-###Deno
-http://youtu.be/DplR6aqGeUY
-
+###Demo
+https://youtu.be/9X-TEHv-Z20
 ###Installation
 
 1) Open the directory containing solr, replace the solr configuration files schema.xml and solrconfig.xml from code/solr directory.
